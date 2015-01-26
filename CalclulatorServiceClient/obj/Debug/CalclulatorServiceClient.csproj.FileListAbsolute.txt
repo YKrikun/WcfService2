@@ -1,0 +1,9 @@
+c:\users\yanya\documents\visual studio 2013\Projects\WcfService2\CalclulatorServiceClient\obj\Debug\CalclulatorServiceClient.Properties.Resources.resources
+c:\users\yanya\documents\visual studio 2013\Projects\WcfService2\CalclulatorServiceClient\obj\Debug\CalclulatorServiceClient.csproj.GenerateResource.Cache
+c:\users\yanya\documents\visual studio 2013\Projects\WcfService2\CalclulatorServiceClient\bin\Debug\CalclulatorServiceClient.exe.config
+c:\users\yanya\documents\visual studio 2013\Projects\WcfService2\CalclulatorServiceClient\bin\Debug\CalclulatorServiceClient.exe
+c:\users\yanya\documents\visual studio 2013\Projects\WcfService2\CalclulatorServiceClient\bin\Debug\CalclulatorServiceClient.pdb
+c:\users\yanya\documents\visual studio 2013\Projects\WcfService2\CalclulatorServiceClient\obj\Debug\CalclulatorServiceClient.exe
+c:\users\yanya\documents\visual studio 2013\Projects\WcfService2\CalclulatorServiceClient\obj\Debug\CalclulatorServiceClient.pdb
+C:\Users\yanya\Documents\Visual Studio 2013\Projects\WcfService2\CalclulatorServiceClient\obj\Debug\CalclulatorServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\yanya\Documents\Visual Studio 2013\Projects\WcfService2\CalclulatorServiceClient\obj\Debug\CalclulatorServiceClient.Main.resources

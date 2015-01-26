@@ -1,0 +1,5 @@
+C:\Users\yanya\Documents\Visual Studio 2013\Projects\WcfService2\WcfService2\bin\WcfCalculatorService.dll.config
+C:\Users\yanya\Documents\Visual Studio 2013\Projects\WcfService2\WcfService2\bin\WcfCalculatorService.dll
+C:\Users\yanya\Documents\Visual Studio 2013\Projects\WcfService2\WcfService2\bin\WcfCalculatorService.pdb
+C:\Users\yanya\Documents\Visual Studio 2013\Projects\WcfService2\WcfService2\obj\Debug\WcfCalculatorService.dll
+C:\Users\yanya\Documents\Visual Studio 2013\Projects\WcfService2\WcfService2\obj\Debug\WcfCalculatorService.pdb
